@@ -1,0 +1,14 @@
+git config --global user.email ""
+git config --global user.name ""
+
+git remote add origin http://...
+
+git pull origin master
+
+git add .
+
+git commit -m "mensagem"
+
+git push origin master
+nomedeusuario
+senha
